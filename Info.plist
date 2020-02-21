@@ -17,7 +17,10 @@
         <key>DDNotificationExternalProviderClasses</key>
         <dict>
             <key>DDNotificationTwitterContactPhotoProvider</key>
-            <string>com.atebits.Tweetie2</string>
+            <array>
+                <string>com.atebits.Tweetie2</string>
+                <string>com.twitter.twttr</string>
+            </array>
         </dict>
         <!-- 
         The ShortLook API version to use. This is to ensure that future updates with potentially
