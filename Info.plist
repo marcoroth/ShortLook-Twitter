@@ -22,7 +22,7 @@
                 <string>com.twitter.twttr</string>
             </array>
         </dict>
-        <!-- 
+        <!--
         The ShortLook API version to use. This is to ensure that future updates with potentially
         breaking API changes do not crash ShortLook. These will be rare, if ever, but exists for
         future-proofing.
